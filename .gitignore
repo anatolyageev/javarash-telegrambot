@@ -38,5 +38,6 @@ out
 *.idea
 
 # Maven
+.mvn
 log/
 target/
