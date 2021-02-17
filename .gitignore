@@ -45,3 +45,4 @@ out
 .mvn
 log/
 target/
+/src/main/resources/
